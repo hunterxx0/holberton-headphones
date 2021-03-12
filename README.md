@@ -33,4 +33,4 @@ The objective is simple: Have a fully functional web page that looks the same as
 
 ### When it's done
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210312T111324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3479c3469be1048b49e831b4b02be4ef7524570c0fa2098a0007f6e3a7daa320)
+![](images/done.jpg)
